@@ -1,11 +1,6 @@
 
 ## check word for anagramm
 
-a = 'anton'
-b = 'anna'
-c = 'fefelyy'
-
-
 
 def anagramm(lst):
 	
@@ -26,8 +21,3 @@ def anagramm(lst):
 		return True
 	else:
 		return False
-
-
-print(anagramm(c))
-
-
